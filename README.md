@@ -1,4 +1,4 @@
-# Projects of free code camp frontend librarires certification.
+# Projects of free code camp frontend libraries certification.
 
 ### 1. [Random Quote generator](https://codepen.io/harishm72/full/zYKLbGr)
 
@@ -6,4 +6,4 @@
 
 ### 2. [Markdown previewer](https://codepen.io/harishm72/full/oNzQgrQ)
 
-Built with 
+Built with [ReactJS](https://reactjs.org/) and [marked](https://marked.js.org/).
